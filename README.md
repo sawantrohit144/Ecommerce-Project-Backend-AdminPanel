@@ -1,0 +1,3 @@
+# Admin Panel
+
+This project is an Admin frontend for an eCommerce website, developed using CodeIgniter 4 to provide a comprehensive and user-friendly interface for administrators. The frontend dashboard enables the admin to manage categories, perform operations on products (such as adding, editing, and deleting), and view all registered users. Designed with simplicity and efficiency in mind, this interface allows the admin to quickly and effectively manage the content and operations of the eCommerce platform. CodeIgniter’s MVC structure ensures smooth data handling and a responsive user experience, making it easy to keep the store organized and up-to-date.
